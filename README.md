@@ -29,30 +29,22 @@ Main Features
 
 Platforms
 
-- Web
-- Desktop (Windows and other supported systems)
-
-Project Status
-
-Currently in the foundation and planning stage.
-
-The initial development target is a Classic Control simulator.
-
-Technologies
-
-- React
-- TypeScript
-- SVG
-- Tauri
-- Git
-
-Open Source
-
-CPE Simulator is developed as a community-driven open-source project under the GNU AGPL-3.0 license.
-
-Contributions from developers, electrical engineers, technicians, educators, and students are welcome.
-
 ---
+### Supported Platforms
+
+CPE Simulator aims to support three platforms:
+
+1. **Web:** Runs directly in modern web browsers.
+2. **Mobile:** Responsive interface for Android and iOS, with PWA installation support.
+3. **Desktop:** Native desktop application using Tauri, targeting Windows and other supported systems.
+
+### Mobile Features
+- Touch-friendly circuit editor.
+- Drag and drop components.
+- Touch-based wire connections.
+- Pinch-to-zoom.
+- Responsive interface.
+- Installable Progressive Web App (PWA).
 
 <a name="العربية"></a>
 
@@ -79,6 +71,7 @@ Contributions from developers, electrical engineers, technicians, educators, and
 
 - الويب
 - تطبيقات الكمبيوتر
+- تطبيقات الهاتف 
 
 حالة المشروع
 
